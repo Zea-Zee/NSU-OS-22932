@@ -10,7 +10,6 @@
 #include <pwd.h>
 #include <grp.h>
 
-
 #define GREEN   "\x1b[32m"
 #define RESET   "\x1b[0m"
 
