@@ -1,0 +1,2 @@
+main: lab18.c
+	gcc -o lab18 lab18.c 

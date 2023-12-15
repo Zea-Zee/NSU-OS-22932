@@ -1,0 +1,4 @@
+main: lab30_server.c
+	gcc -o lab30_server lab30_server.c 
+main: lab30_client.c
+	gcc -o lab30_client lab30_client.c 

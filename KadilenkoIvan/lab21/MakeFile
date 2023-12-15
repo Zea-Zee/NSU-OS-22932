@@ -1,0 +1,2 @@
+main: lab21.c
+	gcc -o lab21 lab21.c 
